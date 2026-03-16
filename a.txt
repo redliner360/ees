@@ -1,2 +1,7 @@
 hello
+<<<<<<< HEAD
 ullas
+=======
+vatsa
+>>>>>>> feat1
+aaa
